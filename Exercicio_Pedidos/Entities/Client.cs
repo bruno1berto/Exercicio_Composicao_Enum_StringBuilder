@@ -32,17 +32,14 @@ namespace Exercicio_Pedidos.Entities
         {
             StringBuilder sb = new StringBuilder();
             sb.Append(Name);
-            if (Email != null)
-            {
-                sb.Append(", ");
-                sb.Append(Email);
-            }
             if (BirthDate != null)
             {
-                sb.Append(", ");
-                sb.Append(BirthDate);
+                sb.Append(" (" + BirthDate.ToString("dd/MM/yyyy") + ")");
             }
-
+            if (Email != null)
+            {
+                sb.Append(" - " + Email);
+            }
             return sb.ToString();
         }
     }

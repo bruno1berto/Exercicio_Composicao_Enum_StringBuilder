@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Globalization;
 using System.Collections.Generic;
+using System.Collections.Specialized;
+using System.Text;
 using Exercicio_Pedidos.Entities;
 using Exercicio_Pedidos.Entities.Enums;
 
@@ -9,7 +12,7 @@ namespace Exercicio_Pedidos
     {
         public DateTime Moment { get; set; }
         public OrderStatus Status { get; set; }
-        public  Client Client{ get; set; }
+        public  Client Client { get; set; }
         public List<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
 
         public Order()
@@ -23,11 +26,6 @@ namespace Exercicio_Pedidos
             Client = client;
         }
 
-        public Order(DateTime moment, OrderStatus status, Client client, List<OrderItem> orderItems) : this(moment, status, client)
-        {
-            OrderItems = orderItems;
-        }
-
         public void AddItem(OrderItem orderItem)
         {
             OrderItems.Add(orderItem);
@@ -38,14 +36,29 @@ namespace Exercicio_Pedidos
             OrderItems.Remove(orderItem);
         }
 
-        public double Total(List<OrderItem> orderItems)
+        public double Total()
         {
-            double total = 0;
-            foreach (OrderItem oi in orderItems)
+            double sum = 0;
+            foreach (OrderItem oi in OrderItems)
             {
-                total += oi.SubTotal();
+                sum += oi.SubTotal();
             }
-            return total;
+            return sum;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order status: " + Status);
+            sb.AppendLine("Client: " + Client);
+            sb.AppendLine("Order items:");
+            foreach (OrderItem item in OrderItems)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            sb.AppendLine("Total price: R$ " + Total().ToString("F2", CultureInfo.InvariantCulture));
+            return sb.ToString();
         }
     }
 }

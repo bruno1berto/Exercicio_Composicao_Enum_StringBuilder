@@ -1,0 +1,13 @@
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\bin\Debug\netcoreapp3.1\Exercicio_Pedidos.exe
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\bin\Debug\netcoreapp3.1\Exercicio_Pedidos.deps.json
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\bin\Debug\netcoreapp3.1\Exercicio_Pedidos.runtimeconfig.json
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\bin\Debug\netcoreapp3.1\Exercicio_Pedidos.runtimeconfig.dev.json
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\bin\Debug\netcoreapp3.1\Exercicio_Pedidos.dll
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\bin\Debug\netcoreapp3.1\Exercicio_Pedidos.pdb
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\obj\Debug\netcoreapp3.1\Exercicio_Pedidos.csprojAssemblyReference.cache
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\obj\Debug\netcoreapp3.1\Exercicio_Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\obj\Debug\netcoreapp3.1\Exercicio_Pedidos.AssemblyInfoInputs.cache
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\obj\Debug\netcoreapp3.1\Exercicio_Pedidos.AssemblyInfo.cs
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\obj\Debug\netcoreapp3.1\Exercicio_Pedidos.dll
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\obj\Debug\netcoreapp3.1\Exercicio_Pedidos.pdb
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Exercicio_Pedidos\Exercicio_Pedidos\obj\Debug\netcoreapp3.1\Exercicio_Pedidos.genruntimeconfig.cache

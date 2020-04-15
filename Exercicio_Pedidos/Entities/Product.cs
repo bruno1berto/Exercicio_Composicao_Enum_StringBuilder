@@ -21,8 +21,7 @@ namespace Exercicio_Pedidos.Entities
         {
             StringBuilder sb = new StringBuilder();
             sb.Append(Name);
-            sb.Append(" - ");
-            sb.Append(Price);
+            sb.Append(", R$ " + Price);
 
             return sb.ToString();
         }

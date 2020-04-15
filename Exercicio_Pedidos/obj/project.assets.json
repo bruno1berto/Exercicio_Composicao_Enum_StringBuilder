@@ -8,26 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Leao\\.nuget\\packages\\": {}
+    "C:\\Users\\Humberto Maia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leao\\Google Drive\\Programação\\Cursos\\C#\\Repos\\Composicao_StringBuilder\\Exercicio_Pedidos\\Exercicio_Pedidos\\Exercicio_Pedidos.csproj",
+      "projectUniqueName": "C:\\Users\\Humberto Maia\\Google Drive\\Programação\\Cursos\\C#\\Repos\\Composicao_StringBuilder\\Exercicio_Pedidos\\Exercicio_Pedidos\\Exercicio_Pedidos.csproj",
       "projectName": "Exercicio_Pedidos",
-      "projectPath": "C:\\Users\\Leao\\Google Drive\\Programação\\Cursos\\C#\\Repos\\Composicao_StringBuilder\\Exercicio_Pedidos\\Exercicio_Pedidos\\Exercicio_Pedidos.csproj",
-      "packagesPath": "C:\\Users\\Leao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leao\\Google Drive\\Programação\\Cursos\\C#\\Repos\\Composicao_StringBuilder\\Exercicio_Pedidos\\Exercicio_Pedidos\\obj\\",
+      "projectPath": "C:\\Users\\Humberto Maia\\Google Drive\\Programação\\Cursos\\C#\\Repos\\Composicao_StringBuilder\\Exercicio_Pedidos\\Exercicio_Pedidos\\Exercicio_Pedidos.csproj",
+      "packagesPath": "C:\\Users\\Humberto Maia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Humberto Maia\\Google Drive\\Programação\\Cursos\\C#\\Repos\\Composicao_StringBuilder\\Exercicio_Pedidos\\Exercicio_Pedidos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Leao\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Humberto Maia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
